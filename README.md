@@ -11,3 +11,5 @@ In a exam to check knowledge of candidates for "RAN performance manager" vacancy
 You can find analytical answer at following web link.
 
 I tired to simulate and solve it with [Monte_Carlo_method](https://en.wikipedia.org/wiki/Monte_Carlo_method). Here is result:
+
+![plot](https://github.com/jupihes/Rain-drop-simulation/blob/master/Rain%20drop.png)
