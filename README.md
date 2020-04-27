@@ -10,4 +10,4 @@ In a exam to check knowledge of candidates for "RAN performance manager" vacancy
 
 You can find analytical answer at following web link.
 
-I tired to simulate and solve it with Monte_Carlo_method. Here is result:
+I tired to simulate and solve it with [Monte_Carlo_method](https://en.wikipedia.org/wiki/Monte_Carlo_method). Here is result:
