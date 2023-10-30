@@ -16,7 +16,7 @@ I tired to simulate and solve it with [Monte_Carlo_method](https://en.wikipedia.
 You can find analytical answer at following [web link](https://lnkd.in/gVQPkMR).
 
 Here is extract
-> The probability that a single drop doesn't hit it is (1-0.01) = 0.99. The probability that none of  d  drops hit it is $0.99^{d}$ . The probability that it is wet after  d  drops is  (1−0.99)^{d}.
+> The probability that a single drop doesn't hit it is (1-0.01) = 0.99. The probability that none of  d  drops hit it is $0.99^{d}$ . The probability that it is wet after  d  drops is  $(1−0.99)^{d}$.
 > By linearity of expectation, the expected wet length after  d  drops is simply the "sum" (i.e., integral) of all those probabilities that the tiny pieces of the line are wet. And as all those probabilities are the same, the expected wet length is  $1−0.99^{d}$ .
 
 Here is plot of needed rain drops per each `wet_length`:
